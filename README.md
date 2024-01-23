@@ -1,4 +1,4 @@
-# ALY6015 Data Science with R - Course Repository
+# ALY6015: Intermediate Analytics with R - Course Repository
 
 ## Overview
 
