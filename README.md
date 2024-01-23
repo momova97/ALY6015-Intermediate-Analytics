@@ -32,10 +32,5 @@ To review the course materials, navigate to the respective module directories. T
 
 Special thanks to the course instructors, peers, and data providers who contributed to the learning experience throughout this course.
 
-## Contact
-
-- Mohammad Hossein Movahedi
-- Email: movahed.m@northeastern.edu
-
 Thank you for exploring this repository. For any inquiries or further discussion regarding the work presented here, please feel free to reach out.
 
